@@ -1,12 +1,5 @@
 ### Languages
-
-- PHP
-- Java
-- JavaScript
+PHP/Java/JavaScript
 
 ### Tools
-
-- MySQL
-- Redis
-- RabbitMQ
-- Elasticsearch
+`MySQL`/Redis/RabbitMQ/Elasticsearch
