@@ -1,4 +1,4 @@
-### 最新博文
+### 最新文章
 
 2020-07-20 [Elasticsearch 应用笔记](https://github.com/dolphin836/Blog/issues/21)
 
