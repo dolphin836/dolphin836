@@ -4,7 +4,7 @@
 
 2020-07-20 [Elasticsearch - 最受欢迎的搜索引擎](https://github.com/dolphin836/Blog/issues/21)
 
-2019-12-14 [Supervisor - 类 Unix 系统进程管理利器](https://github.com/dolphin836/Blog/issues/20)
+2020-05-27 [Supervisor - 类 Unix 系统进程管理利器](https://github.com/dolphin836/Blog/issues/20)
 
 ### 语言
 ![](https://img.shields.io/badge/PHP-60%20month-orange?style=flat-square&logo=mysql&logoColor=white) ![](https://img.shields.io/badge/Java-24%20month-orange?style=flat-square&logo=Java&logoColor=white) ![](https://img.shields.io/badge/JavaScript-36%20month-orange?style=flat-square&logo=JavaScript&logoColor=white)
